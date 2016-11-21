@@ -1,0 +1,62 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/button/button",
+    "pages/checkbox/checkbox",
+    "pages/form/form",
+    "pages/input/input",
+    "pages/label/label",
+    "pages/picker/picker",
+    "pages/radio/radio",
+    "pages/slider/slider",
+    "pages/switch/switch",
+    "pages/textarea/textarea",
+    "pages/operate/operate",
+    "pages/navigator/navigator",
+    "pages/navigator/new",
+    "pages/navigator/redirect",
+    "pages/mediaTest/mediaTest",
+    "pages/audio/audio",
+    "pages/image/image",
+    "pages/video/video",
+    "pages/other/other"
+  ],
+  "window": {
+    "backgroundTextStyle": "black",
+    "navigationBarBackgroundColor": "#000",
+    "backgroundColor": "#ffffff",
+    "navigationBarTitleText": "小程序基础",
+    "navigationBarTextStyle": "#fff",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "backgroundColor": "#000000",
+    "selectedColor": "#0165B0",
+    "borderStyle": "black",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "基础组件"
+      },
+      {
+        "pagePath": "pages/operate/operate",
+        "text": "操作反馈"
+      },
+      {
+        "pagePath":"pages/navigator/navigator",
+        "text":"导航"
+      },
+      {
+        "pagePath":"pages/mediaTest/mediaTest",
+        "text":"媒体"
+      },
+      {
+        "pagePath":"pages/other/other",
+        "text":"其它"
+      }
+    ]
+  }
+}

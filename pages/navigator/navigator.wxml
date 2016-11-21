@@ -1,0 +1,16 @@
+<view class="container">
+<ul class="list">
+      <li class="list-item" >
+        <div class="list-item-left">
+            <navigator url="new?title=navigate" hover-class="navigator-hover">跳转到新页面(不覆盖原页面)</navigator>
+        </div>
+        <div class="list-item-right"></div>
+       </li>
+       <li class="list-item" >
+        <div class="list-item-left">
+            <navigator url="redirect?title=redirect" redirect hover-class="navigator-hover">在当前页打开(覆盖原页面)</navigator>
+        </div>
+        <div class="list-item-right"></div>
+       </li>
+ </ul>
+</view>
