@@ -26,7 +26,8 @@
     "pages/other/canvas/canvas",
     "pages/other/scrollView/scrollView",
     "pages/other/swiper/swiper",
-    "pages/other/pullDownRefresh/pullDownRefresh"
+    "pages/other/pullDownRefresh/pullDownRefresh",
+    "pages/api/api"
   ],
   "window": {
     "backgroundTextStyle": "black",
@@ -34,7 +35,7 @@
     "backgroundColor": "#ffffff",
     "navigationBarTitleText": "小程序基础",
     "navigationBarTextStyle": "#fff",
-    "enablePullDownRefresh": true
+    "enablePullDownRefresh": false
   },
   "tabBar": {
     "color": "#ffffff",
@@ -56,7 +57,7 @@
         "text":"其它"
       },
       {
-        "pagePath": "pages/operate/operate",
+        "pagePath": "pages/api/api",
         "text": "API"
       },   {
         "pagePath": "pages/operate/operate",

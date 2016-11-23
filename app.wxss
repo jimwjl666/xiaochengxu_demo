@@ -18,8 +18,8 @@
   width:100%;
 }
 .list li{
-  height: 70rpx;
-  line-height: 70rpx;
+  height: 90rpx;
+  line-height: 90rpx;
   width: 100%;
   border-bottom: 1px solid #ccc;
   display: flex;
