@@ -16,6 +16,7 @@
     "pages/navigator/navigator",
     "pages/navigator/new",
     "pages/navigator/redirect",
+    "pages/navbar/navbar",
     "pages/mediaTest/mediaTest",
     "pages/audio/audio",
     "pages/image/image",
@@ -47,20 +48,19 @@
         "text": "基础组件"
       },
       {
-        "pagePath": "pages/operate/operate",
-        "text": "操作反馈"
-      },
-      {
         "pagePath":"pages/navigator/navigator",
-        "text":"导航"
-      },
-      {
-        "pagePath":"pages/mediaTest/mediaTest",
-        "text":"媒体"
+        "text":"导航媒体"
       },
       {
         "pagePath":"pages/other/other",
         "text":"其它"
+      },
+      {
+        "pagePath": "pages/operate/operate",
+        "text": "API"
+      },   {
+        "pagePath": "pages/operate/operate",
+        "text": "示例"
       }
     ]
   },
