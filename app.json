@@ -27,7 +27,9 @@
     "pages/other/scrollView/scrollView",
     "pages/other/swiper/swiper",
     "pages/other/pullDownRefresh/pullDownRefresh",
-    "pages/api/api"
+    "pages/api/api",
+    "pages/api/request/request",
+    "pages/api/upload/upload"
   ],
   "window": {
     "backgroundTextStyle": "black",
